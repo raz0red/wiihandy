@@ -5,6 +5,8 @@ WiiHandy v0.4 release README
 Ported by raz0red 
 [http://www.twitchasylum.com]
 
+<a href='http://www.youtube.com/watch?feature=player_embedded&v=zNElRr7pPqk' target='_blank'><img src='http://img.youtube.com/vi/zNElRr7pPqk/0.jpg' width='425' height=344 /></a>
+
 --------------------------------------------
 Overview
 --------------------------------------------
